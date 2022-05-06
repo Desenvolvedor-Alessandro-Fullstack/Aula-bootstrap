@@ -1,12 +1,12 @@
-   # <h1>1ºAula-Bootstraps<h1>
+# 1ºAula-Bootstraps
     
-   <h1> Construindo páginas para internet com Bootstraps<h1>
-    <h3>Programas ultilizados:</h3>
-    Visual Studio Code (VSC)
-    Seletor de cores HTML
-    Bootscraps
-    GitHub
-    Pixels
-    Agradecimentos:
-    DIO.ME
-    Prof.º Rafael Galleani
+## Construindo páginas para internet com Bootstraps
+### Ferramentas e Sites ultilizados:
+* Visual Studio Code (VSC)
+* Seletor de cores HTML
+* Bootscraps
+* GitHub
+* Pixels
+### Agradecimentos:
+* [DIO.ME](https://www.dio.me/)
+* Prof.º Rafael Galleani
