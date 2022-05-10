@@ -1,13 +1,13 @@
 # 1ºAula-Bootstraps
     
-## Construindo páginas para internet com Bootstraps
+## **Construindo páginas para internet com Bootstraps**
 ### Programas e Sites Ultilizados:
 * Visual Studio Code (VSC)
 * Seletor de cores HTML
 * Bootscraps
 * GitHub
 * Pixels
-### Ferramentas Ultilizadas
+### Linguagens Ultilizadas
 * Java Script
 * HTML5
 * CSS3
