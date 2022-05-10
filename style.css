@@ -1,0 +1,29 @@
+.body{
+    font-style: 20px;
+}
+.navbar {
+    background-color:   #333633; 
+}
+.collapse{
+    background-color: whitesmoke;
+    font-family: Verdana;
+    font-style: oblique;
+    color: #0a010a;
+    border-radius: 50px;
+}
+.quem-somos{
+    background-color: #500354eb;
+    color: aliceblue;
+}
+.margin{
+    padding-bottom: 10px;
+    border-radius: 25px;
+}
+.Parceiros{
+    background-color: #1c0763;
+    color: aliceblue;
+}
+.bg-footer{
+    background-color: #0a010a;
+    color: aliceblue;
+}
