@@ -1,6 +1,6 @@
 # 1ºAula-Bootstraps
     
-## [**Construindo páginas para internet com Bootstraps**](Index.html)
+## [**Construindo páginas para internet com Bootstraps**](Index.html) 🚀
 ### Programas e Sites Ultilizados:
 * Visual Studio Code (VSC)
 * Seletor de cores HTML
@@ -12,5 +12,5 @@
 * HTML5
 * CSS3
 ### Agradecimentos:
-* [DIO.ME](https://www.dio.me/)
+* [**DIO.ME**](https://www.dio.me/)
 * Prof.º Rafael Galleani
